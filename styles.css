@@ -1,2 +1,51 @@
 
 /* Your CSS Code here. */
+
+header{
+    background-color: black;
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 10px;
+}
+
+nav{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-size: 16px;
+}
+
+summary{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+h2{
+    padding-left: 10px;
+    border-left: 6px solid yellow;
+    font-size: 30px;
+}
+
+aside{
+    background-color: rgb(48, 48, 48);
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding-left: 10px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+p{
+    padding-left: 10px;
+    
+}
